@@ -1,8 +1,8 @@
    Hi there 👋
    This is kavya sree. 
    A pythoneer and ML enthusiast. Learning, experimenting and having fun.
-
-- 🔭 I’m currently working Python
+ 
+- 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Flask
 - 👯 I’m looking to collaborate on ML Projects
 - 💬 Ask me about Python, C, HTML, CSS, DSA
