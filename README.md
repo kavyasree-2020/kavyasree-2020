@@ -1,7 +1,7 @@
    Hi there 👋
    This is kavya sree. 
    
-   A pythoneer and ML enthusiast. Learning, experimenting and having fun.
+   A pythoneer and ML enthusiast. 
  
 - 🔭 I’m currently working on Python, ML problems.
 - 🌱 I’m currently learning Flask
