@@ -13,4 +13,9 @@
 ###  &nbsp; Hobby:
 Love Reading Quotes,singing 🎤 and meditation.
 
-[![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavyasree-2020)](https://github.com/kavyasree-2020/github-readme-stats)
+![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavyasree-2020&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyasree-2020&layout=compact)](https://github.com/kavyasree-2020/github-readme-stats)
+
+
+
