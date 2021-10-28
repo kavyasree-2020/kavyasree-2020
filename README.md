@@ -11,5 +11,6 @@
 - You can reach me through <a href="https://twitter.com/d_kavyasree_18?lang=en"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%230077B5.svg?&style=flat&logo=twitter&logoColor=white"/></a>&nbsp;OR <a href="https://www.linkedin.com/in/donkeshwar-kavyasree-b53807202/ 
 "><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 ###  &nbsp; Hobby:
-Love to sing 🎤, dance💃 and meditate
+Love Reading Quotes,singing 🎤 and meditation.
 
+[![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavyasree-2020)](https://github.com/kavyasree-2020/github-readme-stats)
