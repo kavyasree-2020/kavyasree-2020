@@ -11,7 +11,7 @@
 
 💬 Ask me about **C/C++/Python**
 
-📫 Connect with me on **<a href="https://www.linkedin.com/in/donkeshwar-kavyasree-b53807202/in/a">Linkedin</a>** or **<a href="https://twitter.com/D_KavyaSree_18</a>**
+📫 Connect with me on **<a href="https://www.linkedin.com/in/donkeshwar-kavyasree-b53807202/in/a">Linkedin</a>**, **<a href="https://twitter.com/D_KavyaSree_18">Twitter</a>** or **<a href="https://hashnode.com/@KavyaSree">Hashnode</a>**
 
 ⚡ Fun fact **I  love Reading Quotes, Singing and Meditation!**
 <hr>
@@ -24,7 +24,7 @@
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>  
 <hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanblouria&show_icons=true&theme=radical&locale=en&layout=compact" alt="kavyasree-2020" width="50%"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavyasree-2020&show_icons=true&theme=radical&locale=en&layout=compact" alt="kavyasree-2020" width="50%"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavyasree-2020&show_icons=true&theme=radical&locale=en" alt="kavyasree-2020" /></p>
 
